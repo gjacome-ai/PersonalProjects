@@ -52,7 +52,8 @@ I operate in fast-paced, high-responsibility environments where I independently 
 ## 🎓 Education
 **B.S. in Cybersecurity (In Progress)**  
 University of Arkansas - Little Rock (Dec 2025 – Dec 2027)
-
+**B.S. in Computer Science
+Arkansas Tech University - Russellville (Aug 2020 - May 2024)
 ---
 
 ## 🪖 Experience & Leadership
@@ -64,5 +65,5 @@ University of Arkansas - Little Rock (Dec 2025 – Dec 2027)
 ---
 
 ## 📫 Contact
-- Email: your@email.com  
-- LinkedIn: (add your link)
+- Email: gjacome04@outlook.com  
+- LinkedIn: (https://www.linkedin.com/in/garrett-jacome-577b01219/)
